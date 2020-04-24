@@ -116,7 +116,7 @@
        padding: 60px 0;
    }
   .section-four__heading {
-      max-font-size: 36px;
+      font-size: 36px;
       font-weight: 600;
       text-transform: uppercase;
       text-align: center;
