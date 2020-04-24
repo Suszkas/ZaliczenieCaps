@@ -1,0 +1,190 @@
+   * {
+       padding: 0;
+       margin: 0;
+       box-sizing: border-box;
+   }
+
+    body {
+        font-family: 'Source Sans Pro', sans-serif;
+    }
+    .section-one {
+       background: #fc3;
+    }
+    .section-one__container {
+        max-width: 850px;
+        margin:  0 auto;
+        padding: 40px 0 20px;
+    }
+    .section-one__heading {
+        font-weight: 400;
+        font-size: 70px;
+        text-align: center;
+        color: #2a3030;
+    }
+   .section-one__heading span {
+        font-weight: 300;
+   }
+   .section-one__subheading {
+       font-size: 30px;
+       color: #2a3030;
+       text-align: center;
+       font-weight: 600;
+       margin: 10px 0 20px;
+    }
+   .section-one__description {
+       text-align: center;
+       line-height: 1.5;
+       width: 500px;
+       margin: auto;
+   }
+   .section-one__description span {
+       font-weight: 700;
+   }
+   .section-one__button {
+       font-weight: 700;
+       border-radius: 4px;
+       font-size: 14px;
+       box-shadow: 0 4px 0 #e0e0e0;
+       padding: 15px 35px;
+       text-transform: uppercase;
+       display: block;
+       margin: 40px auto 15px;
+   }
+   .section-one__image {
+       max-width: 100%;
+   }
+   .section-two {
+       background: #fff;
+       padding: 60px 0;
+   }
+   .section-two__heading {
+       text-align: center;
+       font-size: 38px;
+       font-width: 400;
+       text-transform: uppercase;
+   }
+   .section-two__subhaeding {
+       font-size: 21px;
+       font-weight: 300;
+       text-align: center;
+       margin-bottom: 60px;
+   }
+   .section-two__description {
+       max-width: 800px;
+       margin: auto;
+       line-height: 1.4;
+       text-align: center;
+   }
+   .section-three {
+        display: flex;
+   }
+   .section-three__left-box {
+       width: 50%;
+       background: #63d0ee;
+       padding: 40px 60px 60px;
+   }
+   .section-three__image {
+       width: 100%;
+   }
+   .section-three__right-box {
+       width: 50%;
+       background: #fc3;
+       padding: 40px 60px 60px;
+   }
+   .sektion-three__heading {
+       font-weight: 600;
+       margin-bottom: 20px;
+   }
+   .section-three__list {
+       margin-bottom: 20px;
+   }
+   .section-three__list li {
+       padding: 3px 0;
+   }
+   .section-three__button {
+       font-weight: 700;
+       border-radius: 4px;
+       font-size: 14px;
+       box-shadow: 0 4px 0 #e0e0e0;
+       padding: 15px 35px;
+       text-transform: uppercase;
+       display: block;
+       margin: 40px auto 15px;
+   }
+   .section-four {
+       background: #e1e4e4;
+       padding: 60px 0;
+   }
+  .section-four__heading {
+      max-font-size: 36px;
+      font-weight: 600;
+      text-transform: uppercase;
+      text-align: center;
+      color: #2a3030;
+
+  }
+   .section-four__subheading {
+       font-size: 20px;
+       font-weight: 300;
+       text-align: center;
+       color: #2a3030;
+       margin-bottom: 40px;
+   }
+   .section-four__image {
+       max-width: 200px;
+       display: block ;
+       margin: auto;
+   }
+   .section-five {
+
+       /*display: flex;*/
+
+
+   }
+   /*.section-five__heading {*/
+   /*    text-align: center;*/
+   /*    font-size: 30px;*/
+   /*    font-width: 350;*/
+   /*    text-transform: uppercase;*/
+
+   /*}*/
+   /*.section-five__subheading {*/
+   /*    text-align: center;*/
+   /*    font-size: 20px;*/
+
+   /*}*/
+    .section-five__left-box {
+
+    }
+    .section-five__image {
+        border-radius: 50%;
+        width: 100%;
+    }
+    .section-five__middle-box {
+
+
+    }
+    .section-five__right-box {
+
+
+
+    }
+    .section-five__position {
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 60px;
+        padding-bottom: 15px;
+    }
+
+    .section-five__img-border {
+        border-radius: 50%;
+        border: solid 5px;
+        border-color: #fc3;
+    }
+
+    .section-five__div-img {
+        /*width: 800px;*/
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
