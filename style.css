@@ -60,7 +60,7 @@
    .section-two__heading {
        text-align: center;
        font-size: 38px;
-       font-width: 400;
+       font-weight: 400;
        text-transform: uppercase;
    }
    .section-two__subhaeding {
